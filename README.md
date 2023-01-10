@@ -2,4 +2,4 @@
 # 用法：
 # 1.首先需要修改程序中修改代码文件中arg='-sS -p 20,21,22,23,25,53,69,79,80,110'，把引号中的端口改为你需要扫描的端口，端口间以逗号分隔；如果是扫描端口范围，改为arg='-sS -p 1-65535'形式。
 # 2.存放需要扫描的IP的文件必须是txt格式，一个IP一行，文件名iplist.txt,需要和源文件放置在同一个路径下
-# 3.程序执行：python portscan_excel.py或者python portscan_excel.py
+# 3.执行：python portscan_excel.py或者python portscan_excel.py
